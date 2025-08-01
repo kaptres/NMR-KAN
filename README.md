@@ -12,8 +12,11 @@ Official Code Repository for **ICCV2025**
 
 ## Table of Contents
 1. [Overview](#overview)
-2. [TODO / Roadmap](#todo--roadmap)
-3. [Acknowledgements](#acknowledgements)
+2. [Citation](#citation)
+3. [Contact](#contact)
+4. [License](#license)
+5. [TODO / Roadmap](#todo--roadmap)
+6. [Acknowledgements](#acknowledgements)
 
 ---
 

@@ -27,7 +27,7 @@ Traditional deep networks often over-fit to fine-scale textures, while unconstra
 If you find our work useful, please cite:
 
 ```bibtex
-@inproceedings{arslan2025paper,
+@inproceedings{arslan2025neuromanifold,
   title     = {Neuromanifold-Regularized KANs for Shape-fair Feature Representations},
   author    = {Mazlum Ferhat Arslan and Weihong Guo and Shuo Li},
   booktitle = {Proceedings of the International Conference on Computer Vision},
